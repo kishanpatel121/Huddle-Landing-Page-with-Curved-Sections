@@ -28,13 +28,13 @@ Users should be able to:
 <p align="center">
    Desktop
    <br></br>
-  <img width="600" src="./screenshot/desktop-version.png">
+  <img width="600" src="./screenshots/desktop-version.png">
 </p>
 
 <p align="center">
    Mobile
    <br></br>
-  <img src="./screenshot/mobile-version.png">
+  <img src="./screenshots/mobile-version.png">
 </p>
 
 ### Links
